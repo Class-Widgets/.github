@@ -1,3 +1,6 @@
+> [!NOTE]
+> Class Widgets 有QQ群啦！详见
+
 <p align="center">
   <img width="16%" align="center" src="img/favicon.png" alt="logo">
 </p>
@@ -7,11 +10,12 @@
 
 <div align="center">
 
-[![星标](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=flat-square&color=orange&label=星标)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![当前版本](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=flat-square&color=purple&label=当前版本)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest)
-[![测试版](https://img.shields.io/github/v/tag/RinLit-233-shiroko/Class-Widgets?include_prereleases&label=当前测试版&color=yellow&style=flat-square)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)
-[![开源许可](https://img.shields.io/badge/license-GPLv3-blue.svg?label=开源许可证&style=flat-square)](https://github.com/RinLit-233-shiroko/Class-Widgets)
-[![下载量](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total.svg?label=下载量&color=green&style=flat-square)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![星标](https://img.shields.io/github/stars/RinLit-233-shiroko/Class-Widgets?style=for-the-badge&color=orange&label=星标)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![当前版本](https://img.shields.io/github/v/release/RinLit-233-shiroko/Class-Widgets?style=for-the-badge&color=purple&label=当前版本)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases/latest)
+[![测试版](https://img.shields.io/github/v/tag/RinLit-233-shiroko/Class-Widgets?include_prereleases&label=当前测试版&color=yellow&style=for-the-badge)](https://github.com/RinLit-233-shiroko/Class-Widgets/releases)
+[![开源许可](https://img.shields.io/badge/license-GPLv3-blue.svg?label=开源许可证&style=for-the-badge)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![下载量](https://img.shields.io/github/downloads/RinLit-233-shiroko/Class-Widgets/total.svg?label=下载量&color=green&style=for-the-badge)](https://github.com/RinLit-233-shiroko/Class-Widgets)
+[![Q群](https://img.shields.io/badge/QQ群-169200380-blue.svg?logo=qq&color=blue&style=for-the-badge)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yHXKCAjOxlpTpJ4mNdXm0mxOneYUinRs&authKey=sd3%2F06iGdOZUjkXXPBeIzGnFDIeYwmdwuM8dhk25fi%2B1CUL32MkeN2EEfjdo2pzE&noverify=0&group_code=169200380)
 
 <p align="center">
  全新桌面课表。
@@ -58,5 +62,12 @@
 
 #### 解压 & 运行
 下载完成后，将软件解压到一个**独立的文件夹**，然后在解压后的文件夹找到 `ClassWidgets.exe` 或 `ClassWidgets` 即可运行。
+
+## 社区
+我们目前开通了 [Discussions](https://github.com/Class-Widgets/discussions) 和 [QQ群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yHXKCAjOxlpTpJ4mNdXm0mxOneYUinRs&authKey=sd3%2F06iGdOZUjkXXPBeIzGnFDIeYwmdwuM8dhk25fi%2B1CUL32MkeN2EEfjdo2pzE&noverify=0&group_code=169200380)
+<details>
+<summary><b>查看Q群二维码</b></summary>
+<img src="img/qrcode_1735478936077.jpg" alt="Q群二维码">
+</details>
 
 ### 之后的操作可参阅[官方文档](https://www.yuque.com/rinlit/class-widgets_help)。
