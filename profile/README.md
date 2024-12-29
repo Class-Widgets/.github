@@ -1,5 +1,5 @@
 > [!NOTE]
-> Class Widgets 有QQ群啦！详见
+> Class Widgets 有QQ群啦！详见[此处](#社区)
 
 <p align="center">
   <img width="16%" align="center" src="img/favicon.png" alt="logo">
