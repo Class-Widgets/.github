@@ -17,7 +17,7 @@
 [![开源许可](https://img.shields.io/badge/license-GPLv3-blue.svg?label=开源许可证&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets)
 [![下载量](https://img.shields.io/github/downloads/Class-Widgets/Class-Widgets/total.svg?label=下载量&color=green&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets)
 [![Q群](https://img.shields.io/badge/QQ群-169200380-blue.svg?logo=qq&color=blue&style=for-the-badge)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yHXKCAjOxlpTpJ4mNdXm0mxOneYUinRs&authKey=sd3%2F06iGdOZUjkXXPBeIzGnFDIeYwmdwuM8dhk25fi%2B1CUL32MkeN2EEfjdo2pzE&noverify=0&group_code=169200380)
-[![DC](https://img.shields.io/discord/1332636953719476284?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord%20%E6%9C%8D%E5%8A%A1%E5%99%A8&labelColor=5865f2)](https://discord.gg/EFF4PpqpqZ)
+[![DC](https://img.shields.io/discord/1332636953719476284?style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord%20服务器&labelColor=5865f2)](https://discord.gg/EFF4PpqpqZ)
 
 <p align="center">
  全新桌面课表
@@ -37,7 +37,7 @@
 ## 安装 & 使用
 
 #### 确认系统需求
-首先，确认您的设备是否满足以下需求（仅针对于 Windows）:
+首先，确认您的设备是否满足以下需求（此需求仅针对于在 Windows 下运行的情况）:
 
 > [!NOTE]
 > **🚧 兼容性：** 全面支持 Windows 7。
