@@ -1,9 +1,9 @@
 <div align="right">
-简体中文 | <a href="/.github/profile/README.en_US.md">English</a>
+简体中文 | <a href="/profile/README.en_US.md">English</a>
 </div>
 
 <p align="center">
-  <img width="16%" align="center" src="/.github/profile/img/favicon.png" alt="logo">
+  <img width="16%" align="center" src="/profile/img/favicon.png" alt="logo">
 </p>
   <h1 align="center">
   Class Widgets
@@ -25,7 +25,7 @@
 
 #### [📦 前往主仓库](https://github.com/Class-Widgets/Class-Widgets)
 
-![Banner](/.github/profile/img/Banner.png)
+![Banner](/profile/img/Banner.png)
 
 #### [在 Bilibili 了解更多 >](https://www.bilibili.com/video/BV1xwW9eyEGu/)
 
