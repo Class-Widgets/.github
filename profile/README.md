@@ -1,9 +1,9 @@
 <div align="right">
-简体中文 | <a href="/profile/README.en_US.md">English</a>
+简体中文 | <a href="/profile/README.en_US.md">English</a> | <a href="/profile/README.ja.md">日本語</a>
 </div>
 
 <p align="center">
-  <img width="16%" align="center" src="img/favicon.png" alt="logo">
+  <img width="16%" align="center" src="/profile/img/favicon.png" alt="logo">
 </p>
   <h1 align="center">
   Class Widgets
@@ -13,7 +13,7 @@
 
 [![星标](https://img.shields.io/github/stars/Class-Widgets/Class-Widgets?style=for-the-badge&color=orange&label=星标)](https://github.com/Class-Widgets/Class-Widgets)
 [![当前版本](https://img.shields.io/github/v/release/Class-Widgets/Class-Widgets?style=for-the-badge&color=purple&label=当前版本)](https://github.com/Class-Widgets/Class-Widgets/releases/latest)
-[![测试版](https://img.shields.io/github/v/tag/Class-Widgets/Class-Widgets?include_prereleases&label=当前测试版&color=yellow&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets/releases)
+[![测试版](https://img.shields.io/github/v/tag/Class-Widgets/Class-Widgets?include_prereleases&label=当前测试版&color=yellow&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets/actions)
 [![开源许可](https://img.shields.io/badge/license-GPLv3-blue.svg?label=开源许可证&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets)
 [![下载量](https://img.shields.io/github/downloads/Class-Widgets/Class-Widgets/total.svg?label=下载量&color=green&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets)
 [![Q群](https://img.shields.io/badge/QQ群-169200380-blue.svg?logo=qq&color=blue&style=for-the-badge)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=yHXKCAjOxlpTpJ4mNdXm0mxOneYUinRs&authKey=sd3%2F06iGdOZUjkXXPBeIzGnFDIeYwmdwuM8dhk25fi%2B1CUL32MkeN2EEfjdo2pzE&noverify=0&group_code=169200380)
@@ -25,7 +25,7 @@
 
 #### [📦 前往主仓库](https://github.com/Class-Widgets/Class-Widgets)
 
-![Banner](img/Banner.png)
+![Banner](/profile/img/Banner.png)
 
 #### [在 Bilibili 了解更多 >](https://www.bilibili.com/video/BV1xwW9eyEGu/)
 
