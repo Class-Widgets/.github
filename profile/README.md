@@ -17,6 +17,7 @@
 [![开源许可](https://img.shields.io/badge/license-GPLv3-blue.svg?label=开源许可证&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets)
 [![下载量](https://img.shields.io/github/downloads/Class-Widgets/Class-Widgets/total.svg?label=下载量&color=green&style=for-the-badge)](https://github.com/Class-Widgets/Class-Widgets)
 [![Q群](https://img.shields.io/badge/QQ%20群-1060640788-blue.svg?logo=qq&color=blue&style=for-the-badge)](https://qm.qq.com/q/LrSAgiQvu)
+[![Q群](https://img.shields.io/badge/QQ%20频道-pdcwrinlit-blue.svg?logo=qq&color=blue&style=for-the-badge)](https://pd.qq.com/s/1zyskp21s?b=5)
 [![DC](https://img.shields.io/discord/1332636953719476284?style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord%20服务器&labelColor=5865f2)](https://discord.gg/EFF4PpqpqZ)
 
 <p align="center">
